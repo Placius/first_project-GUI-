@@ -31,7 +31,7 @@ class Game:
 
         frame = Frame(root)
 
-        self.firstnumber = Label(text="Hier put your number")
+        self.firstnumber = Label(text="Here put your number")
         self.firstnumber.pack()
         self.entry_1 = Entry()
         self.entry_1.pack()
